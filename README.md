@@ -3,6 +3,7 @@ A deep learning-based **Streamlit web app** that classifies waste as either **Or
 <div align="center">
   <img src="Images/img2.png" alt="App Preview" width="700" style="border-radius:10px;"/>
 </div>
+
 ## 🔍 Project Overview
 This system is designed to help identify and categorize waste images into two categories:
 - Organic Waste 🌿
