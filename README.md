@@ -42,7 +42,7 @@ waste-classification-app/
 ## 📷 Demo Video
 
 Watch the demo of the project here:
-[Download and watch the demo video](https://github.com/Srilekya07/Eco-Waste-Classifier/blob/main/demo.mp4)
+[Download and watch the demo video](https://github.com/Srilekya07/Eco-Waste-Classifier/wc_demo.mp4)
 
 ## 🤝 Contributing
 Feel free to fork the project, create feature branches, and submit pull requests.
