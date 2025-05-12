@@ -39,6 +39,10 @@ waste-classification-app/
 └── README.md                  # Project overview and instructions
 ```
 
+## ⚠️ Note
+- The machine learning model (wc_model.keras) is not included in this repository due to GitHub's file size limitations.
+- To use the app, you can train your own model or request the file separately.
+- 
 ## 📷 Demo Video
 
 Watch the demo of the project here:
